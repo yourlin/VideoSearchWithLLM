@@ -1,0 +1,7 @@
+# Dify API 配置
+AWS_ACCESS_KEY_ID="<your ak>"
+AWS_SECRET_ACCESS_KEY="<your_sk>"
+
+# Dify API 配置
+DIFY_API_KEY = "your_dify_api_key"
+DIFY_API_URL = "http://yourendpoint.amazonaws.com/v1/"
